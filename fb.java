@@ -19,7 +19,7 @@ public class fb {
 		        	  System.out.println("Interrompi è troppo lungo da generare.");
 		        	  break;
 		        	 }
-                	 System.out.printf("Fibonacci of %d is: %d\n",
+                	 System.out.printf("Fibonacci di %d è: %d\n",
 		         n, fibonacci(n));
 		      }
        }
